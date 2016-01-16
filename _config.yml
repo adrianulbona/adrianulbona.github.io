@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               adrianulbona
+tagline:             'stuff'
+description:         ''
+url:                 http://adrianulbona.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              adrianulbona
+  url:               https://twitter.com/adrianulbona
+  email:             adrianulbona@gmail.com
+
+# Custom vars
+version:             0.0.0
+
+gems: [jekyll-paginate]
