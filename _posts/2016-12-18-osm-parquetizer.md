@@ -37,7 +37,7 @@ When I first started to work with OpenStreetMap (mid 2015) I was a bit intrigued
 
 Meanwhile, I started to work on various geo-spatial analyses involving technologies from a Big Data stack, where OSM was used and I was again intrigued as the regular way to handle the OSM data was to run [osmosis](https://github.com/openstreetmap/osmosis) over the huge PBF planet file and dump some CSV files for various scenarios. Even if this works, it's suboptimal, and this made me write a converter to [Parquet](https://parquet.apache.org).
 
-The converter is available at [github.com/adrianulbona/osm-parquetizer](http://planet.openstreetmap.org/pbf/planet-latest.osm.pbf). 
+The converter is available at [github.com/adrianulbona/osm-parquetizer](https://github.com/adrianulbona/osm-parquetizer). 
 
 Hopefully, this will make the valuable work of so many OSM contributors easily available for the Big Data world.
  
