@@ -23,7 +23,9 @@ twitter_username: adrianulbona
 github_username:  adrianulbona
 linkedin_username: adrianulbona
 
-site.google_analytics: UA-72515602-4
+google_analytics: UA-72515602-4
+disqus:
+    shortname: adrianulbona
 
 # Build settings
 markdown: kramdown
