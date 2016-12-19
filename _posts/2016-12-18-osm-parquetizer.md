@@ -5,7 +5,7 @@ title: OpenStreetMap in the age of Spark
 
 ![My helpful screenshot]({{ site.url }}/assets/2016-12-18-osm-parquetizer.png)
 
-[OpenStreetMap](http://www.openstreetmap.org) is an open/collaborative map considered the Wikipedia of maps. There are tons of information available online and even books about it... anyway, not the the history of OSM we will discuss here, but rather we will take a look on the impressive dataset behind and how such a big map can be analysed with modern technologies as [Apache Spark](http://spark.apache.org).  
+[OpenStreetMap](http://www.openstreetmap.org) is an open/collaborative map considered the Wikipedia of maps. There are tons of information available online and even books about it... anyway, not the history of OSM we will discuss here, but rather we will take a look on the impressive dataset behind and how such a big map can be analysed with modern technologies as [Apache Spark](http://spark.apache.org).  
 
 Short anatomy of the OpenStreetMap
 ---
