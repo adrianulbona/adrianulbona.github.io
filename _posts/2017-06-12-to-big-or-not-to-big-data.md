@@ -14,7 +14,7 @@ Short Big Data History
 - 2007 Distributed Random Access Implementation [HBase](https://en.wikipedia.org/wiki/Apache_HBase)
 - 2008 - 2012 1st gen. Horizontal Development (Hadoop Maturity, Ecosystem Enrichment)
 - 2012 Distributed Data Structures [Resilient Distributed Datasets: a fault-tolerant abstraction for in-memory cluster computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
-- 2014 Spark becomes Apache project
+- 2014 Spark becomes Apache project [Apache Spark](https://spark.apache.org) 
 - 2014 - 2017 2st gen. Horizontal Development (Spark Maturity, phasing-out Map-Reduce)
 
 What Big Data promised in the first place? 
@@ -23,7 +23,14 @@ What Big Data promised in the first place?
 
 In a way Big Data destroyed its myth by making itself too to accessible. 
 
-But the future?
+What is not Big Data?
 ---
 
+Big Data is not the ultimate Machine Learning tool. Even if the Big Data techniques and tools can be used to implement Machine Learning tasks, when you run to Deep Learning don't bully Big Data. 
+
+Don't forget that the same [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) that contributed to the initial Big Data revolution (see the MapReduce and BigTable papers authors) made also Deep Learning scalable through [TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf).
+
+But the future?
+---
+What will the 3rd gen. of tools? Will there be one or ...
 
