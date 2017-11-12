@@ -3,7 +3,7 @@ layout: post
 title: To Big or Not To Big Data
 ---
 
-![Hype](http://cdn.business2community.com/wp-content/uploads/2014/05/Gartner-Hype-Cycle-v2.png)
+![Hype]({{ site.url }}/assets/2017-06-13-to-big-or-not-to-big-data.png)
 
 
 Big Data today is not as sexy as it was. Now that the hype is gone ... what Big Data actually is and what it isn't? Let's start with a bit of history.
