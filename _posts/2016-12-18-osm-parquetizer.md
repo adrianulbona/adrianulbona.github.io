@@ -3,6 +3,8 @@ layout: post
 title: OpenStreetMap in the age of Spark 
 ---
 
+*Update: [Telenav](https://www.telenav.com) publishes weekly planet Parquet files at [osm-data.skobbler.net](http://osm-data.skobbler.net)*
+
 ![My helpful screenshot]({{ site.url }}/assets/2016-12-18-osm-parquetizer.png)
 
 [OpenStreetMap](http://www.openstreetmap.org) is an open/collaborative map considered the Wikipedia of maps. There are tons of information available online and even books about it... anyway, not the history of OSM we will discuss here, but rather we will take a look on the impressive dataset behind and how such a big map can be analysed with modern technologies as [Apache Spark](http://spark.apache.org).  
