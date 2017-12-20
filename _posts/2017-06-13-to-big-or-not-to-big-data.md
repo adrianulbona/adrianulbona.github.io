@@ -41,6 +41,4 @@ The future?
 ---
 How would the 3rd gen. of the Big Data world look? Will there be one? 
 
-For sure! We all want to get hot insights as fast as possible and we all want to do this in a secure and controlled manner. 
-
 Checkout [Ion Stoica's](https://people.eecs.berkeley.edu/~istoica/) talk about the future of Big Data at Berkeley: [RISELab: Enabling Intelligent Real-Time Decisions](https://www.youtube.com/watch?v=XyEuhsmTF3U&list=PLTPXxbhUt-YVEyOqTmZ_X_tpzOlJLiU2k) - bear his English - he's from Eastern Europe.  
