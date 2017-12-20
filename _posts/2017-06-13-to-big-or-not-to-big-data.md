@@ -41,4 +41,4 @@ The future?
 ---
 How would the 3rd gen. of the Big Data world look? Will there be one? 
 
-Checkout [Ion Stoica's](https://people.eecs.berkeley.edu/~istoica/) talk about the future of Big Data at Berkeley: [RISELab: Enabling Intelligent Real-Time Decisions](https://www.youtube.com/watch?v=XyEuhsmTF3U&list=PLTPXxbhUt-YVEyOqTmZ_X_tpzOlJLiU2k) - bear his English - he's from Eastern Europe.  
+Checkout [Ion Stoica's](https://people.eecs.berkeley.edu/~istoica/) talk about the future of Big Data at Berkeley: [RISELab: Enabling Intelligent Real-Time Decisions](https://www.youtube.com/watch?v=XyEuhsmTF3U&list=PLTPXxbhUt-YVEyOqTmZ_X_tpzOlJLiU2k)
