@@ -6,6 +6,7 @@ permalink: /projects/
 
 
 - [OSM Parquetizer](https://github.com/adrianulbona/osm-parquetizer)
-- [Hidden Markov Models Java Library](https://github.com/adrianulbona/hmm)
-- [jts-discretizer](https://github.com/adrianulbona/jts-discretizer)
-- [borders](https://github.com/adrianulbona/borders)
+- [Hidden Markov Models](https://github.com/adrianulbona/hmm)
+- [JTS Discretizer](https://github.com/adrianulbona/jts-discretizer)
+- [Discretized Borders](https://github.com/adrianulbona/borders)
+- [Scalable Country Localization](https://github.com/adrianulbona/cloc)
