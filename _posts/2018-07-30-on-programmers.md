@@ -3,7 +3,7 @@ layout: post
 title: On Programmers
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/2018-08-30-on-programmers.jpg)
+![My helpful screenshot]({{ site.url }}/assets/2018-07-30-on-programmers.jpg)
 
 How much time you spend on your phone every day? How much time you stay in front of a computer every day? How do you 
 communicate with your friends? What happens when you transfer money? For sure there is no little man moving banknotes 
