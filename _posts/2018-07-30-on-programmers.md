@@ -21,7 +21,7 @@ Usually, the programs are quite specific so that the leprechauns can understand 
 
 In order to understand this we have to take a look on the history of leprechauns, more precisely on what leprechauns 
 did in WWII. It is hard to believe, but 129,000 leprechauns in the WWII were involved in everything what was needed 
-in order to build the atom bomb; also a considerable number of leprechauns helped the Nazi regime to build the 
+in order to build the atomic bomb; also a considerable number of leprechauns helped the Nazi regime to build the 
 concentration camps. 
 
 Leprechauns don’t ask questions, as one isolated task is quite meaningless, they just follow instructions … that’s why 
@@ -32,4 +32,4 @@ contributing to good things: we started to explore the space, we can instantly c
 read about [Eyjafjallajökull](https://en.wikipedia.org/wiki/Eyjafjallaj%C3%B6kull) and so on … 
 
 _Programming is colorless. Programs are only tools. Leprechauns are just leprechauns. So, when something bad happens, 
-probably we have to blame the programmers … but what if programmers are leprechauns!? ;)_
+probably we have to blame the programmers … but what if programmers are also leprechauns!? ;)_
