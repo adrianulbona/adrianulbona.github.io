@@ -25,7 +25,7 @@ Also meta information about who and when added each entity is kept.
 How big the OpenStreetMap actually is?
 ---
 
-The data is available at <http://planet.openstreetmap.org> and it comes in two formats:
+The data is available at <https://planet.openstreetmap.org> and it comes in two formats:
 
 - XML ~ around 53 GB
 - PBF ~ around 34 GB
