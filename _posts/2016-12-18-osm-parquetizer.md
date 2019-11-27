@@ -46,7 +46,7 @@ Hopefully, this will make the valuable work of so many OSM contributors easily a
 How fast the conversion is?
 ---------------------------
 
-Less than a minute for [romania-latest.osm.pbf](http://download.geofabrik.de/europe/romania-latest.osm.pbf) and ~3 hours (on a decent laptop with SSD) for the [planet-latest.osm.pbf](http://planet.openstreetmap.org/pbf/planet-latest.osm.pbf).
+Less than a minute for [romania-latest.osm.pbf](http://download.geofabrik.de/europe/romania-latest.osm.pbf) and ~3 hours (on a decent laptop with SSD) for the [planet-latest.osm.pbf](https://planet.openstreetmap.org/pbf/planet-latest.osm.pbf).
 
 Demo
 ---
