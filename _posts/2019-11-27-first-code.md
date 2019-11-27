@@ -30,4 +30,4 @@ end.
 
 I have to admit that I had a thing for intentation from back then. 
 
-Funny thing, now that I reflect on how I actually started programming, it looks kind of ... random. How did you started coding? 
+Funny, now that I reflect on how I actually started programming, it looks kind of ... random. How did you started coding? 
