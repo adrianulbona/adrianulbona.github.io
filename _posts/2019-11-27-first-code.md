@@ -3,6 +3,8 @@ layout: post
 title: First Lines of Code
 ---
 
+![omar](https://media0.giphy.com/media/OVtqvymKkkcTu/source.gif)
+
 A few days ago I was thinking about how I ended up being a Software Engineer. I think it started with me asking my parents to visit on Sundays an aunt that was doing accounting and had a computer (around '97-'98) ... probably I was looking to play games. 
 
 Soon after, I remember that one friend told me that there is place (club) in the nearby town where they have computers and you can play games. I was the _Children's Club/Palace_ (a quite neat leftover from the communist times for after-school activities). Told my dad about this and next autumn I got enrolled, I had no clue it was actually a programming class, I was just thinking about the games. It must have been '99 (3rd year of the primary). 
