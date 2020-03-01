@@ -49,5 +49,5 @@ aws s3 ls --recursive s3://fluentd-blackhole
 
 ### 6) follow-up
 
-- failover analysis. will persistent volumes solve the situation when service the dies "in the middle of a batch"? 
+- failover analysis. will persistent volumes solve the situation when the service dies "in the middle of a batch"? 
 - nice to have: performance analysis + vertical scaling analysis
