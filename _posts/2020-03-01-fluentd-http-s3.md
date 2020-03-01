@@ -35,7 +35,7 @@ docker run -p 9880:9880 -v ${PWD}/conf:/fluentd/etc --env-file .env adrianulbona
 
 ```bash
 curl -X POST -d 'json={"blob":"ceci n`est pas une pipe"}' http://localhost:9880/events
-curl -X POST -d 'json={"blob":"it's been emotional"}' http://localhost:9880/events
+curl -X POST -d 'json={"blob":"it`s been emotional"}' http://localhost:9880/events
 curl -X POST -d 'json={"blob":"elementary, my dear Watson"}' http://localhost:9880/events
 ```
 
