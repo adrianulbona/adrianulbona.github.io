@@ -3,8 +3,10 @@ layout: post
 title: Batching data to S3 with fluentd
 ---
 
-Input: JSON blobs coming through HTTP
-Output: batches of JSON objects persisted in S3
+Input: `JSON objects coming through HTTP`
+
+Output: `batches of JSON objects persisted in S3`
+
 Repo: [adrianulbona/fluentd-http-s3](https://github.com/adrianulbona/fluentd-http-s3)
 
 ### 0) clone
@@ -48,4 +50,4 @@ aws s3 ls --recursive s3://fluentd-blackhole
 ### 6) follow-up
 
 - failover analysis. will persistent volumes solve the situation when service dies "in the middle of a batch"? 
-- performance analysis + vertical scaling analysis
+- nice to have: performance analysis + vertical scaling analysis
