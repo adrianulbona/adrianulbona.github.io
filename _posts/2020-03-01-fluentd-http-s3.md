@@ -22,7 +22,7 @@ docker build -t adrianulbona/fluentd-http-s3:latest .
 ```
 ### 2) configure
 
-- put your AWS S3 credentials in `.env` (use `.env.template` as a reference)
+- put your AWS S3 credentials in `.env` (use `.env.template` as reference)
 - (Optional) tweak the fluentd config from `conf/fluent.conf`
 
 ### 3) run
